@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classTator_1_1Yam_1_1Logger.html#a3ce8620a0c17a4a89a52b51255d0f372" title="Tator::Yam::Logger\l::RegisterLogger" alt="" coords="118,5,253,46"/>
+<area shape="rect" id="node3" href="$classTator_1_1Yam_1_1Logger.html#a0d58d74b07a01d26886e5663a19addb3" title="Tator::Yam::Logger\l::Debug" alt="" coords="118,70,253,111"/>
+<area shape="rect" id="node4" href="$classTator_1_1Yam_1_1Logger.html#a6fd26ca0a76c038c4d94c38c39034309" title="Tator::Yam::Logger\l::Info" alt="" coords="118,135,253,177"/>
+<area shape="rect" id="node5" href="$classTator_1_1Yam_1_1Logger.html#a6a23d8951ee71c424eac3bce1faf0ea8" title="Tator::Yam::Logger\l::Warn" alt="" coords="118,201,253,242"/>
+<area shape="rect" id="node6" href="$classTator_1_1Yam_1_1Logger.html#a695d45c86c715d3be64b0d8651c497fa" title="Tator::Yam::Logger\l::Error" alt="" coords="118,266,253,307"/>
+<area shape="rect" id="node7" href="$classTator_1_1Yam_1_1Logger.html#a11fe601f3a5791256bfd78751b7f8031" title="Tator::Yam::Logger::Var" alt="" coords="104,332,267,359"/>
+</map>
