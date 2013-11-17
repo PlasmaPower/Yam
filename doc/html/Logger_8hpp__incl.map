@@ -1,6 +1,0 @@
-<map id="Logger.hpp" name="Logger.hpp">
-<area shape="rect" id="node5" href="$LogFormat_8hpp.html" title="Contains the Tator::Yam::LogFormat class. " alt="" coords="174,80,313,107"/>
-<area shape="rect" id="node7" href="$LogLevel_8hpp.html" title="Contains the enum Tator::Yam::LogLevel. " alt="" coords="431,155,560,181"/>
-<area shape="rect" id="node9" href="$Logger_8inl.html" title="Contains the implimentation of the Tator::Yam::Logger class. " alt="" coords="461,80,571,107"/>
-<area shape="rect" id="node8" href="$LogFormat_8inl.html" title="Contains the implimentation of the Tator::Yam::LogFormat class. " alt="" coords="181,155,312,181"/>
-</map>
